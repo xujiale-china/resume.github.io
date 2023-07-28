@@ -95,7 +95,7 @@ iOS 客户端界面
 此时你就需要 RSS 服务了，而市面上比较好的 RSS 服务平台就是Inoreader 。
 
 Inoreader 使用手册推荐我多年前写的这篇：
-[我为何将所有微信订阅号都取关了？ - 笨方法学写作](https://www.cnfeat.com/blog/2016/01/19/wechat-subscription/)
+[我为何将所有微信订阅号都取关了？ - 徐嘉乐作品集](https://www.cnfeat.com/blog/2016/01/19/wechat-subscription/)
 
 新手可以使用我制作 100 个[订阅源懒人包](https://github.com/cnfeat/GoodThingList/blob/master/GoodBlogList.md)。
 
@@ -107,7 +107,7 @@ Inoreader 使用手册推荐我多年前写的这篇：
 
 Inoreader 使用手册推荐我多年前写的这篇：
 
-[我为何将所有微信订阅号都取关了？ - 笨方法学写作](https://www.cnfeat.com/blog/2016/01/19/wechat-subscription/)
+[我为何将所有微信订阅号都取关了？ - 徐嘉乐作品集](https://www.cnfeat.com/blog/2016/01/19/wechat-subscription/)
 
 新手可以使用我制作 100 个[订阅源懒人包](https://github.com/cnfeat/GoodThingList/blob/master/GoodBlogList.md)。
 

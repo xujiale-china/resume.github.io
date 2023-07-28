@@ -1,16 +1,16 @@
 # Site settings
-title: 笨方法学写作
-header-img: "img/Xacebook.jpg"
+title: 徐嘉乐作品集
+# header-img: "img/Xacebook.jpg"
 tagline: "cn"  
-description: "笨方法学写作|这一次彻底学会写作"  
+description: "徐嘉乐作品集"  
 baseurl: ""
-url: "http://www.cnfeat.com"  
+url: "https://xujiale-china.github.io/"  
 
 # About/contact
 owner: 
-  name: "陈素封"
-  email: CNFeat@gmail.com
-  bio: "笨方法学写作"
+  name: "徐嘉乐"
+  email: xujiale0224@gmail.com
+  bio: "徐嘉乐作品集"
 
 # Data
 gavatar: img/favicon64.png

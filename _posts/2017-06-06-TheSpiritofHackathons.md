@@ -54,7 +54,7 @@ description: 你只需做一小部分有价值的事情就可以改变现状。
 原标题：The Spirit of Hackathons
 作者：Tim Fogarty
 出自：https://medium.com/tfogo/the-spirit-of-hackathons-a0d81a65060a
-翻译：陈素封
-编辑：陈素封
+翻译：徐嘉乐
+编辑：徐嘉乐
 
 

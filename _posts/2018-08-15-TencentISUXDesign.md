@@ -83,7 +83,7 @@ P.S.文章有大量链接，可戳原文查看。
 
 ######  --
 
-已经**有 300+ 学员**参与的《笨方法学写作》课程正接受报名，课程大纲如下：
+已经**有 300+ 学员**参与的《徐嘉乐作品集》课程正接受报名，课程大纲如下：
 
 ![写作黑客技能树](http://upload-images.jianshu.io/upload_images/32598-ab6a69d22f39426c?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 

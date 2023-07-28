@@ -99,8 +99,8 @@ description: 忘掉灵感吧，习惯更可靠。不管你有没有灵感，习�
 作者：Farnam Street
 原题：Habits vs Goals : A Look at the Benefits of a Systematic Approach to Life
 出处：https://www.farnamstreetblog.com/2017/06/habits-vs-goals/
-翻译：陈素封
-编辑：陈素封
+翻译：徐嘉乐
+编辑：徐嘉乐
 
 
 

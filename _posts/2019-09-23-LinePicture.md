@@ -72,7 +72,7 @@ description: 读书是一项「对重要内容进行提炼的工序」。
 
 ## 相关参考
 
-- [笨方法学写作](http://www.LearnWritingTheHardWay.cn) 
+- [徐嘉乐作品集](http://www.LearnWritingTheHardWay.cn) 
 - [笨方法学 OmniGraffle - 笨方法学一切](http://www.learnthingsthehardway.com/2017/12/02/OmniGraffleIcon.html)
 - [笨方法学 Workflowy - 笨方法学一切](http://www.learnthingsthehardway.com/2017/12/02/Workflowy.html)
 

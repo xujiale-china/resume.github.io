@@ -57,7 +57,7 @@ description: 工作时间表有两种：管理者时间表和创造者时间表�
 
 
 * 原文：http://www.paulgraham.com/makersschedule.html
-* 翻译：陈素封
+* 翻译：徐嘉乐
 
 
 ### ChangeLog

@@ -19,7 +19,7 @@ description: 提问在学习中占据着重要的位置，很多人对知识好�
 
 [王刚翻译版本](http://www.wapm.cn/smart-questions/smart-questions-zh.html)
 
-修改注释：陈素封（cnfeat at Gmail dot com）
+修改注释：徐嘉乐（cnfeat at Gmail dot com）
 
 修改注释时间：2014年5月15日
 

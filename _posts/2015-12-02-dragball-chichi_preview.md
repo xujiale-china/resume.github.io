@@ -43,7 +43,7 @@ description: 《七龙珠》最苦命的女子琪琪的一生。（题图：七�
 
 ----
 
-- 陈素封
+- 徐嘉乐
 - 公众号：cnfeat
 - Blog：cnfeat.com
 

@@ -75,7 +75,7 @@ Otlet 对信息的数字化的想法不仅仅是预测，还是梦想。他和 L
 
 翻译：How the Humble Index Card Foresaw the Internet 
 网址：http://t.cn/R6tX93G
-译者：陈素封
+译者：徐嘉乐
 
 ### ChangeLog
 

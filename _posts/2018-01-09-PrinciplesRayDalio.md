@@ -29,7 +29,7 @@ description: 每个人在践行过程都会有自己的原则。
 
 我又会怎么做？
 
-建立科学写作原则：[《笨方法学写作》](http://www.LearnWritingTheHardWay.cn)，将我在学并且在做的事情总结，像瑞·达利欧一样持续更新。
+建立科学写作原则：[《徐嘉乐作品集》](http://www.LearnWritingTheHardWay.cn)，将我在学并且在做的事情总结，像瑞·达利欧一样持续更新。
 
 
 

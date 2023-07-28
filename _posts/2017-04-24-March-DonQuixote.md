@@ -87,7 +87,7 @@ Netscape 联合创始人马克·安德森（Marc Andreessen）说：**「底层�
 
 
 来源：https://www.gsb.stanford.edu/insights/james-march-what-don-quixote-teaches-us-about-leadership
-翻译及编辑：陈素封
+翻译及编辑：徐嘉乐
 
 
 

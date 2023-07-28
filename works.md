@@ -16,14 +16,14 @@ header-img: "img/semantic.jpg"
 - 说说我自己的故事：[给过去自己的一封信](http://www.cnfeat.com/blog/2017/03/03/a-letter-to-myself-in-that-past/)
 - 说说我的写作故事：[如何正确地练习写作](http://www.jianshu.com/p/2621444b619d)
 
-## 笨方法学写作 课程
+## 徐嘉乐作品集 课程
 
-- [献给写作者的新手指南：《笨方法学写作》 - 笨方法学写作](http://www.cnfeat.com/blog/2017/11/11/Hb2NewWriter/)
-- [笨方法学写作之如何练习写作](http://www.cnfeat.com/blog/2017/09/22/LearnWritingHardWay/)
+- [献给写作者的新手指南：《徐嘉乐作品集》 - 徐嘉乐作品集](http://www.cnfeat.com/blog/2017/11/11/Hb2NewWriter/)
+- [徐嘉乐作品集之如何练习写作](http://www.cnfeat.com/blog/2017/09/22/LearnWritingHardWay/)
 - [献给每天写 1000 字的新手指南 之 写作素材建议](http://www.cnfeat.com/blog/2017/08/15/HbWrite1000Words/)
-- [我的写作教练阳志平 - 笨方法学写作](http://www.cnfeat.com/blog/2017/10/18/MyWritingCoach/)
+- [我的写作教练阳志平 - 徐嘉乐作品集](http://www.cnfeat.com/blog/2017/10/18/MyWritingCoach/)
 
-《笨方法学写作》课程官网：http://www.LearnWritingTheHardWay.cn
+《徐嘉乐作品集》课程官网：http://www.LearnWritingTheHardWay.cn
 
 ![](http://openmindclub.qiniudn.com/omt/ProductList01.jpg?imageMogr2/thumbnail/!30p)
 
@@ -104,7 +104,7 @@ header-img: "img/semantic.jpg"
 
 ### ChangeLog
 
-- 2017-11-23 增补笨方法学写作系列文章
+- 2017-11-23 增补徐嘉乐作品集系列文章
 - 2017-09-22 优化组块，增补文章
 - 2017-06-04 修订组块
 - 2017-03-04 大幅修订页面

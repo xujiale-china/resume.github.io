@@ -122,6 +122,6 @@ description: 读书是一项「对重要内容进行提炼的工序」。
 
 
 
-另《笨方法学写作》课程进入双十一的限时促销，满 200 减 88，底价到手，立即扫码购买。
+另《徐嘉乐作品集》课程进入双十一的限时促销，满 200 减 88，底价到手，立即扫码购买。
 ![笨方法课程图619.jpg](https://cdn.nlark.com/yuque/0/2021/jpeg/87881/1636529119033-2102ccd7-211e-40c4-9dc5-23dc2f9994d8.jpeg#clientId=ua907ac70-e35f-4&from=drop&height=733&id=ubce9b5ef&margin=%5Bobject%20Object%5D&name=%E7%AC%A8%E6%96%B9%E6%B3%95%E8%AF%BE%E7%A8%8B%E5%9B%BE619.jpg&originHeight=3516&originWidth=2400&originalType=binary&ratio=1&size=733999&status=done&style=none&taskId=u403510be-883d-424f-a69a-ea7c8c9889c&width=500)
 

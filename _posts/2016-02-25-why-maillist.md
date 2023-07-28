@@ -76,7 +76,7 @@ description: 愿这份通讯能让你心目中对世界的的基本假设稍微�
 
 ----
 
-- 陈素封
+- 徐嘉乐
 - 公众号：cnfeat
 - Blog：cnfeat.com
 - 元认知学习博客：mesule.com

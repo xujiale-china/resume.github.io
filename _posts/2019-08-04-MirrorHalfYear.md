@@ -13,7 +13,7 @@ description: 读书是一项「对重要内容进行提炼的工序」。
 想看图片，请点[读《资治通鉴》半年给我带来的收获](https://mp.weixin.qq.com/s?__biz=MzA4MTQ0NDQxNg==&mid=2650640223&idx=1&sn=6cb0967ce0b5b6c72f7dc7caaa989842&chksm=879dc470b0ea4d661660f42af807d5397cc925edaa2e76a6b911b2b2f7d5c20f878dfac34f16&token=1061569471&lang=zh_CN#rd)
 
 
-> 笨方法学习周报是我使用笨方法学习的卡片汇总，笨方法四词概之**「坚毅、认真、科学、模仿」**，首发「笨方法学写作」知识星球，每周汇总部分在此。本期编号【2019/21W】。
+> 笨方法学习周报是我使用笨方法学习的卡片汇总，笨方法四词概之**「坚毅、认真、科学、模仿」**，首发「徐嘉乐作品集」知识星球，每周汇总部分在此。本期编号【2019/21W】。
 
 「这本到底是什么书呀？读了半年还没读完？实在不像你风格呀？」
 
@@ -135,7 +135,7 @@ description: 读书是一项「对重要内容进行提炼的工序」。
 * [我如何写《资治通鉴》的读书卡片？——通鉴注我 06](https://www.cnfeat.com/blog/2019/06/24/Mirror06/)
 * [小小的历史责任感——通鉴注我 07](https://www.cnfeat.com/blog/2019/07/05/Mirror07/)
 * [普通人如何读《史记》，比较容易入手？ ——通鉴注我 08](https://www.cnfeat.com/blog/2019/07/27/Mirror08/)
-* [因为春秋有大梦 - 笨方法学写作](https://www.cnfeat.com/blog/2019/07/28/SpringAutumn/)
+* [因为春秋有大梦 - 徐嘉乐作品集](https://www.cnfeat.com/blog/2019/07/28/SpringAutumn/)
 * [成为凿壁偷光者](https://mp.weixin.qq.com/s?__biz=MzA4MTQ0NDQxNg==&mid=2650640114&idx=1&sn=bbe29f57e844811dc0b39d3ca5c2c5cc&chksm=879dc5ddb0ea4ccb9da218c4fac6d7fc6bdec248bca7fc257ff372b56bb92f4239db273997ff&token=2139054589&lang=zh_CN#rd)
 * [吕世浩《我的求学经历》](http://blog.sina.com.cn/s/blog_8db61e980101abem.html)
 * [豆瓣相册-通鉴日与夜](https://www.douban.com/photos/album/1688744965/)

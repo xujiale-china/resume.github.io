@@ -19,7 +19,7 @@ description: 你只需做一小部分有价值的事情就可以改变现状。
 
 ![](http://openmindclub.qiniudn.com/team/cnfeat/image/dragonball_chihi_51_2.jpg)
 
-原文链接：[七龙珠哪些画面让你永生难忘？ - 陈素封的回答 - 知乎](https://www.zhihu.com/question/38711996/answer/78252355)
+原文链接：[七龙珠哪些画面让你永生难忘？ - 徐嘉乐的回答 - 知乎](https://www.zhihu.com/question/38711996/answer/78252355)
 
 
 
@@ -41,7 +41,7 @@ description: 你只需做一小部分有价值的事情就可以改变现状。
 
 ----
 
-- 陈素封
+- 徐嘉乐
 - 公众号：cnfeat
 - Blog：cnfeat.com
 

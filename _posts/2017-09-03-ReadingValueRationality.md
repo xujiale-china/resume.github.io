@@ -25,7 +25,7 @@ description: 世上无难事，只怕笨方法。
 
 祝学习进步
 
-陈素封 谨上
+徐嘉乐 谨上
 
 本文使用[卡片创作法](http://cnfeat.com/blog/2016/11/20/NabokovWriteStyle/)写成
 

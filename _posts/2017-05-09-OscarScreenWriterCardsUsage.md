@@ -98,7 +98,7 @@ https://v.qq.com/x/page/g0500cnd1c0.html
 
 出自：Dustin Lance Black, a Passionate Storyteller ：http://t.cn/Ra5Habu 
 视频：Creative Spark: Dustin Lance Black
-编译：陈素封
+编译：徐嘉乐
 
 
 
