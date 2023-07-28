@@ -10,7 +10,7 @@ header-img: "img/green.jpg"
 
 
 
-我是徐嘉乐，[笨方法实验室](https://www.yuque.com/hardwaylab/book)创始人，践行：世上无难事，只怕笨方法。
+我是徐嘉乐，创始人，践行：世上无难事，只怕笨方法。
 
 写过 10000+ 张纸质卡片，是我的第一生产力工具
 用纸质卡片写出过以下作品：
@@ -84,7 +84,7 @@ header-img: "img/green.jpg"
 
 微信
 
-![](https://s3.bmp.ovh/imgs/2022/11/11/490fda305d26d731.jpg)
+![](img/插画/北京.png)
 
 
 ### ChangeLog
